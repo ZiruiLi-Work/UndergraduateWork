@@ -1,0 +1,16 @@
+1、运用步骤：
+①	扫描，头部建模
+②	经验推荐
+③	选定类型，贴合，微调 
+④	定型，效果回馈
+2、构建思路：
+①	数据采集方式选择，建模方式
+②	数据库构建，数据需求，种类、精度
+③	成像方式，操作界面，功能细化
+④	回馈数据
+
+参考文献
+http://xueshu.baidu.com/s?wd=paperuri:(e9ae149c7977df1cfd32482ee313c053)&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http://www.docin.com/p-1044975164.html&ie=utf-8
+http://wenku.it168.com/d_000044090.shtml
+http://shijuanfeng.blogbus.com/logs/216971337.html
+http://www.doc88.com/p-1495308083422.html
