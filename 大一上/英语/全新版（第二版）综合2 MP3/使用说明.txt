@@ -1,0 +1,9 @@
+使用说明
+
+1. 本光盘为全新版大学英语（第二版）《综合教程2 学生用书》的配套MP3光盘。光盘内容包括1-8单元、Test Yourself I、Test Yourself II的音频文件。其中每单元包含Part I Listening Task、Part II Reading Task两大部分，并配有对应的Script文件。
+
+2. Script文件采用Lrc歌词文件。使用时不需设置，播放器将根据音频文件自动加载对应Lrc文件。
+
+3. 使用计算机播放时，请选用支持Lrc歌词的播放器，如：千千静听。音频播放时播放器将根据音频文件自动加载同名Lrc文件。若Script无法显示，请检查播放器是否支持Lrc歌词，并下载相关插件安装。如：Winamp、Foobar2000、Windows Media Player等默认不支持歌词显示的播放器，可下载歌词插件安装，如：迷你歌词(MiniLyrics)、乐辞。
+
+4. 使用MP3播放器播放时，请将音频文件和Lrc文件拷贝至播放器内，然后播放音频即可。若MP3播放器支持Lrc文件，将自动加载并在显示屏滚动显示。
