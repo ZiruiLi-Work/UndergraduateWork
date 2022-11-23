@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 6_2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP80EC.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/6_2.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"C:\作业\c语言\六\6_2\sortwords_2.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP80EC.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP80FD.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/6_2.pdb" /debug /machine:I386 /out:"Debug/6_2.exe" /pdbtype:sept 
+".\Debug\sortwords_2.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP80FD.tmp"
+<h3>Output Window</h3>
+Compiling...
+sortwords_2.c
+C:\作业\c语言\六\6_2\sortwords_2.c(34) : error C2106: '=' : left operand must be l-value
+C:\作业\c语言\六\6_2\sortwords_2.c(35) : error C2106: '=' : left operand must be l-value
+C:\作业\c语言\六\6_2\sortwords_2.c(36) : error C2106: '=' : left operand must be l-value
+C:\作业\c语言\六\6_2\sortwords_2.c(44) : error C2106: '=' : left operand must be l-value
+C:\作业\c语言\六\6_2\sortwords_2.c(51) : warning C4133: 'function' : incompatible types - from 'char [2]' to 'struct _iobuf *'
+C:\作业\c语言\六\6_2\sortwords_2.c(51) : warning C4133: 'function' : incompatible types - from 'struct _iobuf *' to 'const char *'
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+6_2.exe - 4 error(s), 2 warning(s)
+</pre>
+</body>
+</html>
