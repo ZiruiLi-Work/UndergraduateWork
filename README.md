@@ -38,5 +38,16 @@ Four sections are cooresponding to four years studies.
 
 # Second year
 ## Courses & Work 2-1
-1. 电路分析
+1. 常微分方程 唐少强
+2. 工程力学 王治华
+3. 工程认识 马鹏举
+4. 数学分析（3） 郭玉霞
+5. 思想政治理论课——概论 刘莹
+6. 电路分析 唐瑶
+7. 基础物理学（2） 胡晓东
+8. 基础物理实验A (1)
+9. 信息检索与网络应用 陈淑云
+10. 复变函数与积分变换 漆毅
+
+
 ## Courses & Work 2-2
