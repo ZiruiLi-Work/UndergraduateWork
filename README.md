@@ -4,7 +4,7 @@ This project aims to collect and summarize my assignments and work during underg
 Four sections are cooresponding to four years studies.
 
 # First year
-## Courses 1-1
+## Courses & Work 1-1
 1. **基础化学 (1)** 孙艳明
 2. **高等代数 (1)** 李尚志
 3. **英语听说写/学业英语阅读与写作 (B)** 蒋军虎
@@ -19,7 +19,7 @@ Four sections are cooresponding to four years studies.
 1. **冯如杯 - 发型模拟器**
 2. **社会实践 - 十八梯**
 
-## Courses 1-2
+## Courses & Work 1-2
 1. **基础物理学（1）** 陈强
 2. 高等代数（2） 李尚志
 3. 学科综合前沿讲座
@@ -32,5 +32,6 @@ Four sections are cooresponding to four years studies.
 10. 体育（2）(乒乓球)
 
 # Second year
+## Courses & Work 2-1
 1. 电路分析
-
+## Courses & Work 2-2
