@@ -32,6 +32,10 @@ Four sections are cooresponding to four years studies.
 9. 思想政治理论课－－纲要 黄建华
 10. 体育（2）(乒乓球)
 
+## Courses 1-2.5
+1. 化学实验
+2. 机械制图
+
 # Second year
 ## Courses & Work 2-1
 1. 电路分析
