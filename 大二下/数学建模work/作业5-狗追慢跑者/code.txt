@@ -1,0 +1,40 @@
+joggerV = 3;
+dogV    = 8;
+a = 80;
+b = 36;
+deltaT  = 0.1;
+
+simjogV = joggerV*deltaT;
+simdogV = dogV*deltaT;
+
+t = 0;
+dist = Inf;
+jogPosNow = [-a,0];
+dogPosNow = [-a-14.14,0];
+jogPosNew = jogPosNow;
+dogPosNew = dogPosNow;
+while (dist>0.1)&&(t<=2.2)
+%while(t<=2.4)
+    dogPosNow = dogPosNew;
+    jogPosNow = jogPosNew;
+    
+    %simdogV = simdogV + dogV/6*deltaT;
+%     if (simdogV > 16)
+%         simdogV = 16;
+%     end
+    dist = sqrt((jogPosNow(1,1)-dogPosNow(1,1))^2 + (jogPosNow(1,2)-dogPosNow(1,2))^2);
+    dogVnow(1,1) = (jogPosNow(1,1) - dogPosNow(1,1))/dist * simdogV;
+    dogVnow(1,2) = (jogPosNow(1,2) - dogPosNow(1,2))/dist * simdogV;
+    dogPosNew(1,1) = dogPosNow(1,1) + dogVnow(1,1);
+    dogPosNew(1,2) = dogPosNow(1,2) + dogVnow(1,2);
+    line([dogPosNow(1,1),dogPosNew(1,1)],[dogPosNow(1,2),dogPosNew(1,2)],'color','r');
+    axis equal;
+    hold on;
+    %simjogV = simjogV;
+    tmp = sqrt((b^4)*(jogPosNow(1,1)^2)+(a^4)*(jogPosNow(1,2)^2));
+    jogPosNew(1,1) = jogPosNow(1,1) + (-1)*(a^2)*jogPosNew(1,2)*simjogV/tmp;
+    jogPosNew(1,2) = jogPosNow(1,2) + (b^2)*jogPosNew(1,1)*simjogV/tmp;
+    line([jogPosNow(1,1),jogPosNew(1,1)],[jogPosNow(1,2),jogPosNew(1,2)]);
+    t = t+ deltaT;
+end 
+
