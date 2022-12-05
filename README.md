@@ -3,6 +3,8 @@
 This project aims to collect and summarize my assignments and work during undergraduate years.
 Four sections are cooresponding to four years studies.
 
+unzip pw: graduation date
+
 # First year
 ## Courses & Work 1-1
 1. **基础化学 (1)** 孙艳明
